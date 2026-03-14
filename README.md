@@ -122,7 +122,7 @@ The system detects **21 hand landmarks using MediaPipe** and maps the gesture in
 
 The system detects the hand landmarks and determines that the robot should **STOP** when the gesture corresponds to a stop command.
 
-![Hand Landmark Stop](images/stop_state.png)
+![Hand Landmark Stop](Screenshot from 2026-03-14 15-21-46.png)
 
 ---
 
