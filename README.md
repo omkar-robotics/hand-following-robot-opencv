@@ -130,7 +130,7 @@ The system detects the hand landmarks and determines that the robot should **STO
 
 When the detected hand gesture corresponds to a pause command, the system sets the robot state to **HOLD**.
 
-<img width="100%" src="Screenshot from 2026-03-14 15-21-46.png" />
+<img width="100%" src="Screenshot from 2026-03-14 15-21-54.png" />
 
 ---
 
