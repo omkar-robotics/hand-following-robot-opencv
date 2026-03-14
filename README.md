@@ -138,7 +138,7 @@ When the detected hand gesture corresponds to a pause command, the system sets t
 
 When the gesture indicates forward movement, the robot command changes to **FORWARD**.
 
-<img width="100%" src="Screenshot from 2026-03-14 15-21-54.png" />
+<img width="100%" src="Screenshot from 2026-03-14 15-22-02.png" />
 
 ---
 
