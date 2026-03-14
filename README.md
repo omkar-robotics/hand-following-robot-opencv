@@ -110,6 +110,35 @@ python src/hand_detection.py
 The webcam will open and start detecting hand movements in real time.
 
 ---
+---
+
+# 📊 Project Performance
+
+Below are the results of the real-time hand tracking and gesture recognition system.
+
+## 🖐️ Hand Landmark Detection
+
+The system detects **21 hand landmarks** in real time using MediaPipe and visualizes them on the camera frame.
+
+![Hand Landmark Detection](images/hand_landmarks.png)
+
+---
+
+## 🎮 Gesture Recognition
+
+Hand position is processed using OpenCV and mapped to different robot navigation states.
+
+![Gesture Recognition](images/gesture_recognition.png)
+
+---
+
+## 🤖 Robot Movement Command
+
+Based on the detected gesture, the system determines the robot movement command such as **FORWARD, LEFT, RIGHT, HOLD, or STOP**.
+
+![Robot Control Output](images/robot_control_output.png)
+
+---
 
 # 📈 Future Improvements
 
